@@ -1,7 +1,5 @@
-# wiwiwow
+# Welcome
 
-Wow, congrats on making it to Challenge 3. This one deals with a Caesar cipher, aka the rotating cipher or ROT.
+Hello, and thank you for showing up to the CHS Junior ROTC's 8th Grade Orientation. The cyber station is where you are at. I am C/Captain Reece White, the Cybersecurity Team Captain. I am a senior, so I will not see any of you next year; however, I am committed to this program and watching it succeed. Given I have time, I will pop in from time to time next year to see how things are going.
 
-This cipher was first documented used by Julius Caesar in the first century A.D. The most common usage in handwriting is two concentric letter circles.
-
-The inner one spins, and by taking the letter on the outer wheel and drawing a line towards the middle, you get the new letter, or vice versa. This is known as shifting a letter a fixed amount of letters on the letter wheel (usually 13).
+Anyways, I hope to see you all succeed and pass these challenges. If you have any questions, you can ask me.
